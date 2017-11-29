@@ -1,0 +1,21 @@
+<package>
+  <metadata>
+    <id>packagename-$config$</id>
+    <version>1.0.0.0</version>
+    <authors>octopus</authors>
+    <owners>octopus</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The packageID deployment package, built on 24/11/2017</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <!--<files>
+    <file src="C:\projects\octopack-test\octopack-test\octopack-test\bin\Debug\octopack-test.exe.config" target="octopack-test.exe.config" />
+    <file src="C:\projects\octopack-test\octopack-test\octopack-test\bin\Debug\octopack-test.exe" target="octopack-test.exe" />
+    <file src="C:\projects\octopack-test\octopack-test\octopack-test\bin\Debug\octopack-test.pdb" target="octopack-test.pdb" />
+    <file src="C:\projects\octopack-test\octopack-test\octopack-test\bin\Debug\System.Data.SQLite.dll" target="System.Data.SQLite.dll" />
+    <file src="C:\projects\octopack-test\octopack-test\octopack-test\bin\Debug\System.Data.SQLite.xml" target="System.Data.SQLite.xml" />
+  </files>-->
+</package>

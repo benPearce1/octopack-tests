@@ -28,7 +28,7 @@
     <ApplicationVersion>1.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <RunOctoPack>true</RunOctoPack>
+    <!--<RunOctoPack>false</RunOctoPack>-->
     <OctoPackNuGetProperties>config=$(Configuration)</OctoPackNuGetProperties>
     <OctoPackNugetArguments>-basePath c:\subfolder</OctoPackNugetArguments>
   </PropertyGroup>
